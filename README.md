@@ -1,1 +1,2 @@
 # Grocery-Similar-Items-Analysis
+This project focuses on building a recommendation system to analyze and suggest related grocery items. The system preprocesses datasets by handling missing data and applying feature scaling to improve accuracy. It leverages the Apriori and Eclat algorithms to identify frequent itemsets and generate meaningful product recommendations. By analyzing purchasing patterns, the system enhances user experience by suggesting complementary products, making shopping more efficient and personalized.
