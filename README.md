@@ -28,3 +28,6 @@ Eclat is particularly effective for scenarios where **computational efficiency**
 ✅ **Optimized Performance** – Utilizes efficient algorithms to handle large datasets.  
 
 This project provides valuable insights into **customer behavior** and helps businesses optimize their inventory and marketing strategies. 🚀
+
+## **Note on Dataset**  
+📝 *The dataset used in this project is AI-generated, meaning that the data patterns may not fully reflect real-world grocery transactions. As a result, the recommendations and insights produced by the model might not always align with actual purchasing behaviors.*  
